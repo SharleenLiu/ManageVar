@@ -1,0 +1,14 @@
+E:\andrei\ManageVar\ManageVar\obj\Debug\ResolveAssemblyReference.cache
+E:\andrei\ManageVar\ManageVar\bin\ManageVar.dll
+E:\andrei\ManageVar\ManageVar\bin\ManageVar.pdb
+E:\andrei\ManageVar\ManageVar\bin\EntityFramework.dll
+E:\andrei\ManageVar\ManageVar\bin\EntityFramework.xml
+E:\andrei\ManageVar\ManageVar\obj\Debug\ManageVar.dll
+E:\andrei\ManageVar\ManageVar\obj\Debug\ManageVar.pdb
+C:\WebApps\ManageVar\ManageVar\bin\ManageVar.dll
+C:\WebApps\ManageVar\ManageVar\bin\ManageVar.pdb
+C:\WebApps\ManageVar\ManageVar\bin\EntityFramework.dll
+C:\WebApps\ManageVar\ManageVar\bin\EntityFramework.xml
+C:\WebApps\ManageVar\ManageVar\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApps\ManageVar\ManageVar\obj\Debug\ManageVar.dll
+C:\WebApps\ManageVar\ManageVar\obj\Debug\ManageVar.pdb
